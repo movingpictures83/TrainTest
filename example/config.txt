@@ -1,0 +1,2 @@
+Prefix plugins/TrainTest/example/
+Plugin TrainTest inputfile parameters.txt outputfile iris

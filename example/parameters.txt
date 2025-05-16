@@ -1,0 +1,2 @@
+csvfile	iris.csv
+pct	0.8
